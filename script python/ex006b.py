@@ -1,0 +1,5 @@
+cont = input ('Digite algo: ')
+print(type (cont))
+print (cont.isalpha())
+print (cont.isalnum())
+print (cont.isnumeric())

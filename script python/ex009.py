@@ -1,0 +1,23 @@
+nome = input('Qual é o seu nome? ')
+print('Seja bem vinda {}! a tabuada do Papai.'.format(nome))
+nu = int(input('Agora digite um numero: '))
+x1 = nu * 1
+x2 = nu * 2
+x3 = nu * 3
+x4 = nu * 4
+x5 = nu * 5
+x6 = nu * 6
+x7 = nu * 7
+x8 = nu * 8
+x9 = nu * 9
+x10 = nu * 10
+print('A tabuada de {} x 1 = {} '.format(nu, x1))
+print('A tabuada de {} X 2 = {} '.format(nu, x2))
+print('A tabuada de {} X 3 = {} '.format(nu, x3))
+print('A tabuada de {} X 4 = {} '.format(nu, x4))
+print('A tabuada de {} X 5 = {} '.format(nu, x5))
+print('A tabuada de {} X 6 = {} '.format(nu, x6))
+print('A tabuada de {} X 7 = {} '.format(nu, x7))
+print('A tabuada de {} X 8 = {} '.format(nu, x8))
+print('A tabuada de {} X 9 = {} '.format(nu, x9))
+print('A tabuada de {} X 10 = {}'.format(nu, x10))
